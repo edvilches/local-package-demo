@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Local Package Demo"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Vilches Marabolí
+    given-names: Eduardo
+year: 2026
+license: MIT
+url: https://github.com/edvilches/local-package-demo.git
