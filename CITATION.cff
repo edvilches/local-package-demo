@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: "Local Package Demo"
 message: "If you use this project, please cite it as below."
 authors:
-  - family-names: Vilches Marabolí
+  - family-names: Vilches
     given-names: Eduardo
 year: 2026
 license: MIT
