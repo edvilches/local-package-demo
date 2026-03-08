@@ -1,5 +1,5 @@
 [project]
-name = "local-package-demo"
+name = "local_package_demo"
 version = "0.1.0"
 description = "Example scientific python library"
 authors = [{name="Eduardo Vilches"}]
